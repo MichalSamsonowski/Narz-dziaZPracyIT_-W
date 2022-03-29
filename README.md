@@ -1,2 +1,2 @@
-# Narz-dziaZPracyIT_-W
+# Test
 Repozytorium na ćwiczenia
